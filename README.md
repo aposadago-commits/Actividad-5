@@ -1,5 +1,5 @@
 # Actividad 5
-# Segunda actividad de Programación Orientada a Objetos
+# Quinta actividad de Programación Orientada a Objetos
 # Universidad Nacional de Colombia sede Medellín
 # Estudiante: Alejandro Posada Gomez
 # Profesor: Walter Hugo Arboleda Mazo
